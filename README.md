@@ -13,6 +13,12 @@ This library aims to fill this gap by adding many useful features
 and improving on the responsiveness issues of the official Google library.  
 See [wiki](https://github.com/mg6maciej/android-maps-extensions/wiki) for more details.
 
+![](http://android.amberfog.com/wp-content/uploads/2014/04/utility-markercluster.png)
+![](http://android.amberfog.com/wp-content/uploads/2014/05/fq_listview-1024x453.jpg)
+
+[Blog](http://android.amberfog.com/?p=915#more-915)
+=====
+
 Usage
 =====
 
